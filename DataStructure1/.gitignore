@@ -1,0 +1,64 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build output (all languages)
+# =========================
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+
+# =========================
+# C++ build artifacts
+# =========================
+*.ilk
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.idb
+*.pch
+*.obj
+*.exe
+
+# =========================
+# .NET / C#
+# =========================
+*.dll
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+
+# =========================
+# Temporary / cache files
+# =========================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
